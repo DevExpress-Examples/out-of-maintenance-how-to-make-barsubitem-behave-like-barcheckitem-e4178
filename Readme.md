@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBarLinkPainter.cs](./CS/CustomBarSubItem/CustomBarManager/CustomBarLinkPainter.cs) (VB: [CustomBarLinkPainter.vb](./VB/CustomBarSubItem/CustomBarManager/CustomBarLinkPainter.vb))
+* [CustomBarManager.cs](./CS/CustomBarSubItem/CustomBarManager/CustomBarManager.cs) (VB: [CustomBarManager.vb](./VB/CustomBarSubItem/CustomBarManager/CustomBarManager.vb))
+* [CustomBarSubItem.cs](./CS/CustomBarSubItem/CustomBarManager/CustomBarSubItem.cs) (VB: [CustomBarSubItem.vb](./VB/CustomBarSubItem/CustomBarManager/CustomBarSubItem.vb))
+* [Form1.cs](./CS/CustomBarSubItem/Form1.cs) (VB: [Form1.vb](./VB/CustomBarSubItem/Form1.vb))
+* [Program.cs](./CS/CustomBarSubItem/Program.cs) (VB: [Program.vb](./VB/CustomBarSubItem/Program.vb))
+<!-- default file list end -->
 # How to make BarSubItem behave like BarCheckItem
 
 
